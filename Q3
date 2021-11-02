@@ -1,0 +1,4 @@
+d = {10, 20}
+print(d)
+d.update({30})
+print(d)
